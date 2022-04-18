@@ -1,8 +1,7 @@
 
 ## 🚀 About Me
 I'm Salvatore Spina, an italian Software Developer studying currently at 42 Nice.
-
-
+[![sspina's 42 stats](https://badge42.vercel.app/api/v2/cl23ko0z5001109lfcjoth6nf/stats?cursusId=21&coalitionId=116)](https://github.com/JaeSeoKim/badge42)
 
 ## 🛠 Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
