@@ -13,8 +13,8 @@ I'm Salvatore Spina, an italian Software Developer studying currently at 42 Nice
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Badges
-![Salvatore Spina's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalvatoreSpina&show_icons=true&theme=radical)
+![Salvatore Spina's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalvatoreSpina&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalvatoreSpina&layout=compact&theme=radical)](https://github.com/SalvatoreSpina/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalvatoreSpina&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SalvatoreSpina&theme=tokyonight)](https://github.com/SalvatoreSpina/github-profile-trophy)
