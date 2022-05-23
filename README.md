@@ -1,20 +1,72 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
 
-## 🚀 About Me
-I'm Salvatore Spina, an italian Software Developer studying currently at 42 Nice.
-[![sspina's 42 stats](https://badge42.vercel.app/api/v2/cl23ko0z5001109lfcjoth6nf/stats?cursusId=21&coalitionId=116)](https://github.com/JaeSeoKim/badge42)
+## About me
+First of all: call me Sasso, it's easier.
+I'm a passionate italian developer, currently based on France and attending 42 Nice.
+I can reassume my philosophy in one sentence: what we know is a drop, what we don't know is an ocean.
+Following that, I try to improve my knowledge every single day in every possible domain, especially coding.
 
-## 🛠 Skills
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+- 🔭 I’m currently working on [Webserver](https://github.com/mgkgng/42Projects-Webserv)
+
+- 🌱 I’m currently learning **Python, JavaScript**
+
+- 👨‍💻 All of my projects are available at [salvatorespina.github.io](salvatorespina.github.io)
+
+- 📫 How to reach me **sspina.salvatore@gmail.com**
+
+- ⚡ Fun fact **There was a bear enlisted in the polish army who made it to the rank of Corporal. He also smoked, drank and carried weapons to the front during battles. His name was Wojtek.**
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+</div>
+
+</td></tr></table>  
+
+<br/>  
 
 ## Badges
-![Salvatore Spina's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalvatoreSpina&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalvatoreSpina&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=SalvatoreSpina&theme=tokyonight" alt="salvatorespina" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SalvatoreSpina&theme=tokyonight)](https://github.com/SalvatoreSpina/github-profile-trophy)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=salvatorespina&show_icons=true&theme=tokyonight&locale=en" alt="salvatorespina" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salvatorespina&theme=dark" alt="salvatorespina" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salvatorespina&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="salvatorespina" /></p>
