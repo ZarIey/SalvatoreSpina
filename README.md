@@ -12,8 +12,6 @@ Following that, I try to improve my knowledge every single day in every possible
 
 - 🌱 I’m currently learning **Python, JavaScript**
 
-- 👨‍💻 All of my projects are available at [salvatorespina.netflify.app]
-
 - 📫 How to reach me **sspina.salvatore@gmail.com**
 
 - ⚡ Fun fact **There was a bear enlisted in the polish army who made it to the rank of Corporal. He also smoked, drank and carried weapons to the front during battles. His name was Wojtek.**
