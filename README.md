@@ -8,9 +8,9 @@ I'm a passionate italian developer, currently based on France and attending 42 N
 I can reassume my philosophy in one sentence: what we know is a drop, what we don't know is an ocean.
 Following that, I try to improve my knowledge every single day in every possible domain, especially coding.
 
-- 🔭 I’m currently working on [Webserver](https://github.com/mgkgng/42Projects-Webserv)
+- 🔭 I’m currently working on [Transcendence](https://github.com/Zekoyu/ft_transcendence_wish)
 
-- 🌱 I’m currently learning **Python, JavaScript**
+- 🌱 I’m currently learning **competitive programming**
 
 - 📫 How to reach me **sspina.salvatore@gmail.com**
 
