@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sasso Stark</h1
+<h1 align="center">Hi 👋, I'm Sasso Stark</h1>
 
-## About me
+# About me
 First of all: call me Sasso, it's easier.
 I'm a passionate italian developer, currently based on France and attending 42 Nice.
 I can reassume my philosophy in one sentence: what we know is a drop, what we don't know is an ocean.
