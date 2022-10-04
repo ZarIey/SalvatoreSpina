@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sasso Stark</h1>
-<h3 align="center">A passionate frontend developer from Italy</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salvatorespina&label=Profile%20views&color=eb97f7&style=flat" alt="salvatorespina" /> </p>
+<h1 align="center">Hi 👋, I'm Sasso Stark</h1
 
 ## About me
 First of all: call me Sasso, it's easier.
