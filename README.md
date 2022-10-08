@@ -8,7 +8,7 @@ Following that, I try to improve my knowledge every single day in every possible
 
 - 🔭 I’m currently working on [Transcendence](https://github.com/Zekoyu/ft_transcendence_wish)
 
-- 🌱 I’m currently learning **competitive programming**
+- 🌱 I’m currently learning **competitive programming** and **software reverse engeneering**
 
 - 📫 How to reach me **sspina.salvatore@gmail.com**
 
