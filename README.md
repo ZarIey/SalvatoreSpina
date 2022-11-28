@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sasso Stark</h1>
+<h1 align="center">Hi 👋, I'm Sasso</h1>
 
 # About me
 First of all: call me Sasso, it's easier.
