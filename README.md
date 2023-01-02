@@ -6,11 +6,9 @@ I'm a passionate italian developer, currently based on France and attending 42 N
 I can reassume my philosophy in one sentence: what we know is a drop, what we don't know is an ocean.
 Following that, I try to improve my knowledge every single day in every possible domain, especially coding.
 
-- 🔭 I’m currently working on [Leetcode](https://leetcode.com/) and Security Projects.
+- 🔭 I’m currently working on [Leetcode](https://leetcode.com/) and low level.
 
-- 🌱 I’m currently learning **competitive programming** and **software reverse engeneering**
-
-- 📫 How to reach me **sspina.salvatore@gmail.com**
+- 🌱 I’m currently learning **competitive programming** and **low level computing**
 
 - ⚡ Fun fact **There was a bear enlisted in the polish army who made it to the rank of Corporal. He also smoked, drank and carried weapons to the front during battles. His name was Wojtek.**
 
